@@ -10,11 +10,11 @@ This chat uses Node.JS so you obviously need that, it also uses MongoDB to store
 
 The following Node.JS modules are required:
 
-*express
-*socket.io
-*curl
-*mongoose
-*forever
+* `express`
+* `socket.io`
+* `curl`
+* `mongoose`
+* `forever`
 
 Installation
 -----------
