@@ -1,7 +1,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 <script>
 	//tell socket.io where what address and port to listen on
-	var socket = io.connect('http://chat.echelonkinetic.com:8080');
+	var socket = io.connect('http://chat.nodechat.com:8080');
 
 	//update chat window on new message
 	socket.on('updatechat', function (username, data) {
