@@ -6,7 +6,9 @@ Node.JS chat that supports multiple rooms and switching between rooms.
 Requirements
 ------------
 
-This chat uses Node.JS so you obviously need that, it also uses MongoDB to store chat logs.
+This chat uses `Node.JS` so you obviously need that, it also uses `MongoDB` to store chat logs.
+
+I recommend using `npm` for getting Node.JS modules, makes it easy to download and install.
 
 The following Node.JS modules are required:
 
